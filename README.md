@@ -1,3 +1,11 @@
+🔭 I’m currently working on
+👯 I’m looking to collaborate on
+🤝 I’m looking for help with
+🌱 I’m currently learning
+💬 Ask me about
+⚡ Fun fact
+
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aloidin.akram@gmail.com) 
